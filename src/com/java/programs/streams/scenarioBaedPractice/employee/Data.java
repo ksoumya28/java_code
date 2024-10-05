@@ -1,4 +1,4 @@
-package com.java.programs.streams.scenarioBaedPractice;
+package com.java.programs.streams.scenarioBaedPractice.employee;
 
 import java.util.Arrays;
 import java.util.List;
